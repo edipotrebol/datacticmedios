@@ -25,16 +25,20 @@ body {
     font-weight: bold;
 }
 
-#description h5 {
+#description h5, #news h5 {
     color: #E82823;
     font-size: 1.5em;
 }
 
-#description p {
-    color: #E82823;
+#description p, #news p {
+    color: #FFF0B2;
 }
 
-#description p {
+#news ul li {
+    color: #FFF0B2;
+}
+
+#news ul li a {
     color: #FFF0B2;
 }
 
