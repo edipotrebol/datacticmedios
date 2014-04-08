@@ -1,0 +1,19 @@
+body {
+    background-color: #2B0000;
+}
+
+#header h1 {
+    color: #E82823;
+}
+
+#headline h2, #headline h3 {
+    color: #FFF0B2;
+}
+
+#headline .number, #headline .number {
+    color: #E82823;
+}
+
+#description h5, #description p {
+    color: #FFF0B2;
+}
