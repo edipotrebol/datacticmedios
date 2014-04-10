@@ -1,17 +1,17 @@
 body {
-    background-color: #2B0000;
+    background-color: #FFFFFF;
 }
 
 .panel {
-    background-color: #FFF0B2;
+    background-color: #FFFFFF;
 }
 
 #header h1 {
-    color: #E82823;
+    color: #000000;
 }
 
 #headline {
-     background-color: #E82823; 
+    background-color: #333333;
     padding-top: 20px;
     padding-bottom: 20px;
     -moz-box-shadow:    inset 0 0 10px #000000;
@@ -20,35 +20,35 @@ body {
 }
 
 #headline h2 {
-    color: #342D23;
+    color: #000000;
     font-size: 2.5em;
 }
 
 #headline h3 {
-    color: #342D23;
+    color: #000000;
     font-size: 1.5em;
 }
 
 #headline .number {
-    color: #E82823;
+    color: #000000;
     font-weight: bold;
 }
 
 #description h5, #news h5 {
-    color: #E82823;
+    color: #000000;
     font-size: 1.5em;
 }
 
 #description p, #news p {
-    color: #FFF0B2;
+    color: #000000;
 }
 
 #news ul li {
-    color: #FFF0B2;
+    color: #000000;
 }
 
 #news ul li a {
-    color: #FFF0B2;
+    color: #000000;
 }
 
 .fullwidth {
